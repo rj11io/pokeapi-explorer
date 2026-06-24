@@ -11,6 +11,9 @@
 # testing
 /coverage
 
+# local API caches
+/.cache/
+
 # next.js
 /.next/
 /out/
