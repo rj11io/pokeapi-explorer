@@ -1,0 +1,4 @@
+interface:
+  display_name: "PokéAPI v2"
+  short_description: "Build cache-first clients for PokéAPI v2"
+  default_prompt: "Use $pokeapi-v2 to design a fair-use-compliant PokéAPI v2 integration."
